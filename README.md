@@ -1,4 +1,4 @@
-# fabimon Scheme
+# faBimon Scheme
 
 | Color | Normal | Bright |
 |---|---|---|
